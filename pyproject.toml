@@ -25,7 +25,7 @@ tdn = "tidal_dl_ng.cli:app"
 tdng = "tidal_dl_ng.gui:gui_activate"
 
 [tool.poetry.dependencies]
-python = ">=3.10,<=3.12"
+python = ">=3.10"
 requests = "2.32.3"
 mutagen = "1.47.0"
 pycryptodome = "3.20.0"
